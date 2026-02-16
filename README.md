@@ -1,2 +1,1 @@
-# Projeto-Programa-o-Web
-• wip quase completo
+# Projeto-Programao-Web
